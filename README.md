@@ -61,7 +61,6 @@ streamlit run app.py
 - **Snowflake Connector**: For connecting and interacting with Snowflake databases.
 
 ## Author
-- **Your Name**
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Sravankumar Galta**
+- **GitHub**: [Your GitHub Profile](https://github.com/SravanGatla)
 
-Feel free to explore, customize, and contribute to this project! If you encounter any issues or have suggestions, please open an issue or submit a pull request. Enjoy your healthy dining experience! 🌱🍽️
